@@ -1,6 +1,13 @@
-# XHash Analyzer v 1.0
-### Rhino Forensic & Reverse Toolkit - Black Edition
+# XHash Analyzer v 1.0 - XBlack Edition
 
+<img width="692" height="111" alt="hash" src="https://github.com/user-attachments/assets/cd7656a1-3627-462a-af36-29c0feebd1f7" />
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python&logoColor=white)
 ---
 
 ## 📝 Descripción
@@ -57,7 +64,7 @@ La herramienta está diseñada para funcionar con diccionarios externos. Se deja
 *   **Diccionario de Ataque:** `Ropckyou.rar` (Aprox. 136 MB).
 
 ## 👨‍💻 Autor
-**Rodolfo Hernandez Baz**
+**Rodolfo Hernandez Baz aKa Pr@fEs0r X**
 
 ## ⚠️ Aviso Legal
 Esta herramienta ha sido desarrollada con fines educativos y de auditoría de seguridad legítima. El uso de las funciones de cracking para obtener contraseñas sin autorización es ilegal. El usuario se hace responsable del uso que le dé a este software.
