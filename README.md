@@ -15,6 +15,7 @@
 
 La herramienta permite identificar tipos de hashes, generar sumas de verificación para textos y archivos, comparar la integridad de archivos y realizar ataques de diccionario básicos para recuperación de contraseñas, todo ello sin necesidad de un servidor backend.
 
+
 ## ✨ Características Principales
 
 ### 1. 🔍 Detectar Hash
@@ -57,6 +58,9 @@ Al ser una herramienta web estática, no requiere instalación compleja.
 1.  Clona el repositorio o descarga el archivo `index.html`.
 2.  Coloca el archivo `index.html` en la raíz de tu servidor web o ábrelo directamente en un navegador moderno.
 3.  Si deseas utilizar el diccionario de ejemplo, asegúrate de que el archivo `Ropckyou.rar` esté en el mismo directorio que el `index.html`.
+
+## Requisitos Previos para la Versión CLI
+pip install pyfiglet colorama  
 
 ## 📦 Recursos
 La herramienta está diseñada para funcionar con diccionarios externos. Se deja un enlace de descarga sugerido dentro de la pestaña "About" del programa.
