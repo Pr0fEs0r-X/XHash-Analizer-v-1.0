@@ -14,6 +14,8 @@
 **XHash Analyzer** es una herramienta web forense y de análisis criptográfico diseñada para ser ejecutada completamente del lado del cliente (Client-Side). Pertenece al ecosistema **Rhino Forensic & Reverse Toolkit** y ofrece una interfaz oscura y moderna ("Black Edition") con acentos neón.
 
 La herramienta permite identificar tipos de hashes, generar sumas de verificación para textos y archivos, comparar la integridad de archivos y realizar ataques de diccionario para recuperación de contraseñas, todo ello sin necesidad de un servidor backend.
+<br><br>
+<img width="598" height="345" alt="clihash" src="https://github.com/user-attachments/assets/e3e07575-694d-4a2a-994a-5a6630babdac" />
 
 
 ## ✨ Características Principales
