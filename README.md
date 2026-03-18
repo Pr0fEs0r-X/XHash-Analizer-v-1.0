@@ -69,8 +69,14 @@ La herramienta está diseñada para funcionar con diccionarios externos. Se deja
 
 *   **Diccionario de Ataque:** `Ropckyou.rar` (Aprox. 136 MB).
 
-## 👨‍💻 Autor
-**Rodolfo Hernandez Baz aKa Pr@fEs0r X**
+## 👤 Autor y Empresa
+
+Desarrollado con fines educativos y de seguridad informática.
+
+*   **Creador:** [Rodolfo Hernandez Baz](https://www.rodolfohbaz.info/)
+*   **Desarrollador Principal:** [Pr0fEs0r-X](https://github.com/Pr0fEs0r-X)
+*   **Compañía:** [Rhino Forensic & Reverse Toolkit v 1.0](https://rhinosecurity.xyz/)
+```
 
 ## ⚠️ Aviso Legal
 Esta herramienta ha sido desarrollada con fines educativos y de auditoría de seguridad legítima. El uso de las funciones de cracking para obtener contraseñas sin autorización es ilegal. El usuario se hace responsable del uso que le dé a este software.
